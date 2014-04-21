@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.ds set filetype=dogescript
+au BufRead,BufNewFile *.djs set filetype=dogescript
